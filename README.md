@@ -8,7 +8,7 @@ O Blog que revela as últimas inovações, gadgets incríveis e tendências que 
 
 ![Home 2](https://github.com/arielklxto/Blog_Tec/blob/main/imagens/home2.png)
 
-
+![Home 3](https://github.com/arielklxto/Blog_Tec/blob/main/imagens/home3.png)
 # Tecnologias utilizadas
 - HTML / CSS
   
