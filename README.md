@@ -6,7 +6,7 @@ O Blog que revela as últimas inovações, gadgets incríveis e tendências que 
 ### Home
 ![Home 1](https://github.com/arielklxto/Blog_Tec/blob/main/imagens/home1.png)
 
-![Home 2]()
+![Home 2](https://github.com/arielklxto/Blog_Tec/blob/main/imagens/home2.png)
 
 
 # Tecnologias utilizadas
